@@ -87,9 +87,15 @@ Error: El correo electrónico ingresado no es válido.
 Para ejecutar el script main.py, sigue estos pasos:
 
 Clona este repositorio o descarga el archivo main.py.
-
+```sh
+git clone https://github.com/Javierilox/Generador-de-Contrase-as.git
+```
 Asegúrate de tener instaladas las librerías necesarias.
-
+```sh
+pip install pyzipper
+```
 Ejecuta el script main.py
 
 ```sh
+python main.py
+```
